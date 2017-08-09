@@ -1,0 +1,35 @@
+{
+  "name": "quiz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skcary/quiz.git"
+  },
+  "author": "sk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skcary/quiz/issues"
+  },
+  "homepage": "https://github.com/skcary/quiz#readme",
+  "dependencies": {
+    "koa": "^2.3.0",
+    "koa-bodyparser": "^4.2.0",
+    "koa-convert": "^1.2.0",
+    "koa-favicon": "^2.0.0",
+    "koa-logger": "^3.0.1",
+    "koa-response-time": "^2.0.0",
+    "koa-router": "^7.2.1",
+    "koa-session": "^5.5.0",
+    "koa-static": "^4.0.1",
+    "koa-static-cache": "^5.1.1",
+    "moment": "^2.18.1",
+    "mongoose": "^4.11.6",
+    "objectid-to-timestamp": "^1.3.0",
+    "socket.io": "^2.0.3"
+  }
+}
